@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Machine Learning Engineer • Applied ML • LLMs • Agentic AI Systems
+Data Scientist • Machine Learning Engineer • Applied ML • LLMs • Agentic AI Systems
 </h3>
 
 <p align="center">
